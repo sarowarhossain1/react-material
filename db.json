@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "id": "a8ae",
+      "name": "Suzuki ",
+      "price": "250000",
+      "category": "bike",
+      "phone": "01633694070"
+    },
+    {
+      "id": "ddf7",
+      "name": "jahid Hasan",
+      "price": "5000",
+      "category": "Tab",
+      "phone": "01633694070"
+    }
+  ]
+}
